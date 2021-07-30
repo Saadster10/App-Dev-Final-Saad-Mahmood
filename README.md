@@ -13,7 +13,7 @@ This is an ecommerce app built for university students to allow them to sell and
 - Save the pubspec.yaml file to first download all the dependencies
 - Select and turn on your Android Emulator
 - In the terminal type
-'flutter run --no-sound-null-safety'
+' flutter run --no-sound-null-safety '
 - The program should execute
 # IMPORTANT - Demo Videos
 - Android app demo: https://youtu.be/t7CIVwdAb7E
