@@ -1,6 +1,8 @@
 # Description
 This is an ecommerce app built for university students to allow them to sell and purchase items in their local areas.
 
+# Final Assignment
+My aignment was to add a report error feature that allows a user can submit a picture and a description fo an error.
 # Dependencies
 - VScode
 - Flutter
@@ -16,4 +18,4 @@ This is an ecommerce app built for university students to allow them to sell and
 ''' flutter run --no-sound-null-safety '''
 - The program should execute
 # IMPORTANT - Demo Videos
-- Android app demo: https://youtu.be/t7CIVwdAb7E
+- Android app demo: https://youtu.be/BUkpDEp1tPo
